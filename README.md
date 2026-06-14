@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://AvinashManiTiwari.github.io/Moving-Train-Animation/
+👉 https://avinashmanitiwari.github.io/Moving-Train-Animation-By-HTML/
 
 ## 🌟 Project Overview
 
